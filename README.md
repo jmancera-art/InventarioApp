@@ -26,3 +26,4 @@ Joseph Mancera
 ## Progreso del Curso
 
 - [x] Modulo 1: El ecosistema .NET
+- [x] Revisión
